@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hiroto Yamakawa 🍶😋
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gishi-yama&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=gishi-yama&show_icons=ture" />
+</p>
 
 <!--
 **gishi-yama/gishi-yama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
